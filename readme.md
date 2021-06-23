@@ -1,6 +1,6 @@
 **Adversarial Training for Deep Learning in Image Reconstruction**
 
-This repository contains the code of my semester project 'Adversarial Training for Deep Learning in Image Reconstruction'. The code is based on the work 'On instabilities of deep learning in image reconstruction - Does AI come at a cost?' by V. Antun et al. (see https://github.com/vegarant/Invfool). Hence, some of the file are lightly modified or copied from there.
+This repository contains the code of my semester project 'Adversarial Training for Deep Learning in Image Reconstruction'. The code is based on the work 'On instabilities of deep learning in image reconstruction - Does AI come at a cost?' by V. Antun et al. (see https://github.com/vegarant/Invfool). The files `_2fc_2cnv_1dcv_L1sparse_64x64_tanhrelu_upg.py`,`automap_tools.py`,`Demo_adversarial_noise_multi.py` as well as the directory `py_adv_tools` are slightly modified or copied from there.
 
 **Requirements**
 
